@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+<<<<<<< HEAD:app/assets/stylesheets/application.scss
  @import "bootstrap";
  
  header{
@@ -29,3 +30,5 @@
 	 background-size: cover;
 	 background-position: center;
  }
+=======
+>>>>>>> f8aa200e3f51649fb0e2bdc43d33aa1aa932d987:app/assets/stylesheets/application.css

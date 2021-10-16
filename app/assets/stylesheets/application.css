@@ -13,22 +13,3 @@
  *= require_tree .
  *= require_self
  */
-<<<<<<< HEAD:app/assets/stylesheets/application.scss
- @import "bootstrap";
- 
- header{
-   height:100px;
-   font-family: 'Noto Sans JP',serif;
-   background-image: image-url("header-footer.jpg");
-	 background-size: cover;
-	 background-position: center;
- }
- footer{
-   height:100px;
-   font-family: 'Noto Sans JP',serif;
-   background-image: image-url("header-footer.jpg");
-	 background-size: cover;
-	 background-position: center;
- }
-=======
->>>>>>> f8aa200e3f51649fb0e2bdc43d33aa1aa932d987:app/assets/stylesheets/application.css

@@ -14,26 +14,18 @@
  *= require_self
  */
  @import "bootstrap";
-
+ 
  header{
-
-  height:100px;
-  font-family: 'Noto Sans JP',serif;
-  background-color: black;
+   height:100px;
+   font-family: 'Noto Sans JP',serif;
+   background-image: image-url("header-footer.jpg");
 	 background-size: cover;
 	 background-position: center;
  }
  footer{
-  height:100px;
-  font-family: 'Noto Sans JP',serif;
-  background-color: black;
+   height:100px;
+   font-family: 'Noto Sans JP',serif;
+   background-image: image-url("header-footer.jpg");
 	 background-size: cover;
 	 background-position: center;
- }
-
- .login-page{
-  height: 650px;
- }
- .sign-up-page{
-  height: 800px;
  }
